@@ -1,7 +1,7 @@
 # banco-api-tests
 
 ## 📘 Objetivo
-Este projeto realiza testes automatizados na API REST do [API Rest Banco](https://github.com/juliodelimas/banco-api), validando suas funcionalidades e contribuindo a qualidade de suas operações.
+Este projeto realiza testes automatizados na API REST do [banco-api](https://github.com/juliodelimas/banco-api), validando suas funcionalidades e contribuindo a qualidade de suas operações.
 
 Os testes foram desenvolvidos em **JavaScript**, utilizando o framework **Mocha** e as bibliotecas **Chai** e **Supertest**, entre outras, para estruturar, executar e validar os cenários de teste de forma eficiente.
 
